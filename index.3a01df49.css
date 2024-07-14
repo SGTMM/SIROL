@@ -1,0 +1,12 @@
+body {
+  color: #333;
+  background-color: #fdf0d5;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+}
+/*# sourceMappingURL=index.3a01df49.css.map */
